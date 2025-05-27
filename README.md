@@ -1,5 +1,18 @@
-<h1 align="center">Hey, I'm Nitish</h1>
-<h4 align="center">A product designer & data scientist studying @Cornell</h4>
+<h1 align="center">Hey, I'm Nitish 👋</h1>
+<h4 align="center">Product Designer & Data Scientist</h4>
+
+---
+
+🎓 I'm currently studying **Data Science, Statistics, and Information Science** at **Cornell University**, where I blend analytical thinking with creative problem-solving.
+
+🧠 I'm learning the ropes of **machine learning**, while actively exploring **product design** — combining these worlds to build thoughtful, user-centered experiences.
+
+🛠️ One of my recent projects is a **redesign proposal for a critical flaw in ChatGPT's memory transparency**, aiming to enhance how users understand and control AI memory.
+
+🌱 Outside the classroom, you'll find me:
+- 🍳 Experimenting in the kitchen (yes, I take plating very seriously)
+- 📸 Capturing life through a lens
+- 🌍 Traveling to explore cultures, cuisines, and design inspiration
 
 ---
 
