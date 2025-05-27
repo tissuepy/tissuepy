@@ -1,5 +1,6 @@
-<h1 align="center">Hey, I'm Nitish 👋</h1>
-<h4 align="center">Product Designer & Data Scientist</h4>
+<h3 align="center"> Nitish Gannu</h3>
+<h4 align="center"> Product Designer & Data Scientist</h4>
+<br>
 
 ---
 
